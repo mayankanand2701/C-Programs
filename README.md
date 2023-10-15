@@ -7,7 +7,7 @@ C is a powerful and widely used programming language known for its efficiency an
 - Control Statements : 15 Questions
 - Pattern : 33 Questions
 
-  I will be updating this repository daily.
-  Thank You!
+I will be updating this repository daily.
+Thank You!
 
-  Happy Coding😄.
+Happy Coding😄.
