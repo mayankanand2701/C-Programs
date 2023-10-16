@@ -6,6 +6,7 @@ C is a powerful and widely used programming language known for its efficiency an
 - Conditional Statements : 5 Questions
 - Control Statements : 15 Questions
 - Pattern : 33 Questions
+- Arrays : 5 Questions
 
 I will be updating this repository daily.
 Thank You!
