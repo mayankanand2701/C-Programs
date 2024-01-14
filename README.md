@@ -8,6 +8,7 @@ C is a powerful and widely used programming language known for its efficiency an
 - Pattern : 35 Questions
 - Arrays : 8 Questions
 - Assignment : Solution of all Assignments of OSW Lab
+- Placement Pratice : Solution of All Questions (HW+CW)
 
 I will be updating this repository daily.
 Thank You!
